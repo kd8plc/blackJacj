@@ -1,3 +1,3 @@
 import random
 
-cards = ["A" += U+2665,
+cards = ["A"{U+2665},
